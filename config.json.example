@@ -1,0 +1,26 @@
+{
+  "staffRoles": ["1234567890"],
+  "logChannel": "1234567890",
+  "ticketCategories": [
+    {
+      "name": "soporte",
+      "emoji": "🆘",
+      "color": 3447003
+    },
+    {
+      "name": "reportes",
+      "emoji": "📋",
+      "color": 15158332
+    },
+    {
+      "name": "compras",
+      "emoji": "💳",
+      "color": 3066993
+    },
+    {
+      "name": "staff",
+      "emoji": "👨‍💼",
+      "color": 10181046
+    }
+  ]
+}
